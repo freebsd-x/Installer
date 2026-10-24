@@ -1,0 +1,12 @@
+{
+  "name": "System Installer",
+  "version": "1.0.0",
+  "identifier": "com.freebsdx.installer",
+  "executable": "bin/installer",
+  "icon": "Resources/icon.svg",
+  "permissions": [
+    "com.freebsdx.permission.UI",
+    "com.freebsdx.permission.STORAGE_WRITE"
+  ],
+  "mime_types": []
+}
